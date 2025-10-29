@@ -1,0 +1,26 @@
+{
+  "name": "food_ordering_web-main",
+  "version": "1.0.0",
+  "description": "Welcome to my **Food Ordering Website**, built using **HTML, CSS & JavaScript**.   Browse food items, search your favorite dishes, place orders, and track your order history!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachingiri58/food_ordering_Website.git"
+  },
+  "keywords": [
+    "foods",
+    "website",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "sachin giri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachingiri58/food_ordering_Website/issues"
+  },
+  "homepage": "https://github.com/sachingiri58/food_ordering_Website#readme"
+}
